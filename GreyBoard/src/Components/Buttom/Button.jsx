@@ -5,7 +5,6 @@ const Button = ({children}) => {
     <>
       <div className="  h-14 w-14 border-2   rounded-md flex justify-center items-center  ">
         {children}
-        
       </div>
     </>
   );
